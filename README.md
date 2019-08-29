@@ -1,4 +1,4 @@
-# HaXplore - Submission Report Format
+# LetMeSpeak
 
 This is the official code repository for 'not-a-bot'. This ML backed sign language gesture recognition platform was developed during HaXplore,  the on-campus event conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
@@ -7,8 +7,6 @@ This is the official code repository for 'not-a-bot'. This ML backed sign langua
 * Tuhin Sarkar
 * Vatsal Rathod
 * Sarvesh Shroff
-
-#### LetMeSpeak
 
 #### Overview
 
