@@ -1,6 +1,6 @@
 # LetMeSpeak
 
-This is the official code repository for 'not-a-bot'. This ML backed sign language gesture recognition platform was developed during HaXplore,  the on-campus event conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi. This hack won the 2nd runner up prize at the same.
+This is the official code repository for 'not-a-bot'. This ML based sign language gesture recognition platform was developed during HaXplore,  the on-campus event conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi. This hack won the 2nd runner up prize at the same.
 
 ### not-a-bot
 
